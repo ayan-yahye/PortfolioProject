@@ -1,6 +1,5 @@
 # PortfolioProjects
 
-# Data Analyst Portfolio
 
 ## 👋 About Me
 I am a passionate and detail-oriented Data Analyst with a strong foundation in transforming raw data into actionable insights. I am proficient in **SQL**, **Python**, and **Power BI**, and I leverage these tools to solve complex business problems. My strengths lie in my **critical thinking** and **problem-solving** abilities, allowing me to navigate data challenges and deliver clear, impactful recommendations.
