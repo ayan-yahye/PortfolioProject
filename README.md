@@ -16,6 +16,7 @@ The dataset contains 1,000 sales transactions from three supermarket branches, i
 - Product information (category, price)
 - Customer demographics (type, gender)
 - Sales metrics (quantity, tax, total price)
+  
 **Goal:** Analyze sales data from a supermarket chain to uncover trends in profitability, customer behavior, and product performance to optimize strategies and drive revenue growth.
 
 **Key Questions Answered:**
@@ -48,4 +49,8 @@ The dataset contains information from a bank's marketing campaign, including cus
 - **Environment:** Jupyter Notebook
 - 
 **Source:** [Bank Marketing Dataset on Kaggle](https://www.kaggle.com/datasets/yaminh/bank-marketing-campaign-dataset?select=dataset.csv)
+
+## 📫 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/ayan-yahye-0982501ba/
+- **Email:** ayanyahye0@gmail.com
 
