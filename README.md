@@ -113,5 +113,5 @@ This project analyzes a bank's telemarketing campaign to identify key factors th
 
 ## 📫 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/ayan-yahye-0982501ba/
-- **Email:** ayanyahye0@gmail.com
+- **Email:** nayayn67@gmail.com
 
