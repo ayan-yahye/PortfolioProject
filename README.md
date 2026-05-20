@@ -1,11 +1,13 @@
 # PortfolioProjects
 
 
-## 👋 About Me
-I am a passionate and detail-oriented Data Analyst with a strong foundation in transforming raw data into actionable insights. I am proficient in **SQL**, **Python**, and **Power BI**, and I leverage these tools to solve complex business problems. My strengths lie in my **critical thinking** and **problem-solving** abilities, allowing me to navigate data challenges and deliver clear, impactful recommendations.
-I am actively seeking opportunities to apply my analytical skills to drive data-informed decision-making and business growth.
+Hi, I'm Ayan Yahye 👋
+Data Analyst | Mathematics & Statistics | SQL · Python · Power BI
+I turn raw data into decisions that move businesses forward. With a BSc in Mathematics and Statistics and hands-on experience in SQL, Python and Power BI, I specialize in finding the insight inside the noise — whether that is a $400K revenue opportunity hidden in customer data or a $79K leakage buried in transaction records.
+📍 Based in Hargeisa, Somaliland  |  🌍 Open to relocation  |  💼 Open to Remote
 
-**Skills:** SQL | Python (Pandas, NumPy) | Power BI | Data Visualization | Statistical Analysis | Data Cleaning & Wrangling
+**Skills:**
+CategoryTools & TechnologiesLanguagesSQL, Python (Pandas, NumPy, Matplotlib, Seaborn)VisualizationPower BI (DAX, Power Query), TableauStatisticsHypothesis Testing, Regression, Predictive ModelingDatabaseSQL Server, MySQL, OracleOtherExcel (Advanced), Git, GitHub
 
 This repository contains two end-to-end data analysis projects, each demonstrating a different set of skills and business applications.
 
