@@ -1,13 +1,23 @@
 # PortfolioProjects
 
 
-Hi, I'm Ayan Yahye 👋
-Data Analyst | Mathematics & Statistics | SQL · Python · Power BI
+# Hi, I'm Ayan Yahye 👋
+
+### Data Analyst | Mathematics & Statistics | SQL · Python · Power BI
+
 I turn raw data into decisions that move businesses forward. With a BSc in Mathematics and Statistics and hands-on experience in SQL, Python and Power BI, I specialize in finding the insight inside the noise — whether that is a $400K revenue opportunity hidden in customer data or a $79K leakage buried in transaction records.
+
 📍 Based in Hargeisa, Somaliland  |  🌍 Open to relocation  |  💼 Open to Remote
 
-**Skills:**
-CategoryTools & TechnologiesLanguagesSQL, Python (Pandas, NumPy, Matplotlib, Seaborn)VisualizationPower BI (DAX, Power Query), TableauStatisticsHypothesis Testing, Regression, Predictive ModelingDatabaseSQL Server, MySQL, OracleOtherExcel (Advanced), Git, GitHub
+## 🛠️ Technical Skills
+
+| Category | Tools & Technologies |
+|---|---|
+| **Languages** | SQL, Python (Pandas, NumPy, Matplotlib, Seaborn) |
+| **Visualization** | Power BI (DAX, Power Query) |
+| **Statistics** | Hypothesis Testing, Regression, Predictive Modeling |
+| **Database** | SQL Server, MySQL, Oracle |
+| **Other** | Excel (Advanced), GitHub |
 
 This repository contains two end-to-end data analysis projects, each demonstrating a different set of skills and business applications.
 
@@ -116,4 +126,3 @@ This project analyzes a bank's telemarketing campaign to identify key factors th
 ## 📫 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/ayan-yahye-0982501ba/
 - **Email:** nayayn67@gmail.com
-
