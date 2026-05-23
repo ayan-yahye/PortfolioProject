@@ -5,7 +5,7 @@
 
 ### Data Analyst | Mathematics & Statistics | SQL · Python · Power BI
 
-I turn raw data into decisions that move businesses forward. With a BSc in Mathematics and Statistics and hands-on experience in SQL, Python and Power BI, I specialize in finding the insight inside the noise — whether that is a $400K revenue opportunity hidden in customer data or a $79K leakage buried in transaction records.
+I turn raw data into decisions that move businesses forward. With a BSc in Mathematics and Statistics and hands-on experience in SQL, Python and Power BI, I specialize in finding the insight inside the noise, whether that is a $400K revenue opportunity hidden in customer data or a $79K leakage buried in transaction records.
 
 📍 Based in Hargeisa, Somaliland  |  🌍 Open to relocation  |  💼 Open to Remote
 
