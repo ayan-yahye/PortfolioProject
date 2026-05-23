@@ -123,6 +123,7 @@ This project analyzes a bank's telemarketing campaign to identify key factors th
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Jupyter Notebook / Google Colab
 - Statistical Analysis
+  
 📂 [View Python Notebook](https://github.com/ayan-yahye/PortfolioProject/blob/main/Bank_Marketing_Analysis.ipynb)
 
 **Source:** [Bank Marketing Dataset on Kaggle](https://www.kaggle.com/datasets/yaminh/bank-marketing-campaign-dataset?select=dataset.csv)
