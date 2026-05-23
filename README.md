@@ -19,7 +19,9 @@ I turn raw data into decisions that move businesses forward. With a BSc in Mathe
 | **Database** | SQL Server, MySQL, Oracle |
 | **Other** | Excel (Advanced), GitHub |
 
-This repository contains two end-to-end data analysis projects, each demonstrating a different set of skills and business applications.
+This repository contains three end-to-end data analysis projects, each demonstrating a different set of skills and business applications.
+
+## 📁 Projects
 
 ### Project 1: Supermarket Sales Performance & Customer Analytics
 
@@ -71,7 +73,7 @@ Analyzed 1,000+ transactions to uncover **$79K annual revenue opportunity** thro
 - **Database Management:** MySQL
 - **Data Analysis:** SQL
 
-
+📂 [View SQL Code](https://github.com/ayan-yahye/PortfolioProject/blob/main/Supermarket%20Analysis.sql)
 [Source: Kaggle - Superstore Sales Dataset] (https://www.kaggle.com/datasets/chadwambles/supermarket-sales?select=sales.csv)
 
 ### Project 2: Bank Marketing Campaign Analysis
@@ -120,11 +122,26 @@ This project analyzes a bank's telemarketing campaign to identify key factors th
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Jupyter Notebook / Google Colab
 - Statistical Analysis
-  
+📂 [View Python Notebook](https://github.com/ayan-yahye/PortfolioProject/blob/main/Bank_Marketing_Analysis.ipynb)  
 **Source:** [Bank Marketing Dataset on Kaggle](https://www.kaggle.com/datasets/yaminh/bank-marketing-campaign-dataset?select=dataset.csv)
 
+### Project 3 — Superstore Sales Dashboard (Power BI)
+
+Built a fully interactive 3-page Power BI dashboard analysing over $118M in retail sales data, enabling business leaders to identify performance trends, profit drivers, and underperforming segments at a glance.
+
+**Dashboard Pages:**
+1. **Sales Overview** — Revenue trends, YoY growth, regional performance
+2. **Product Analysis** — Category profitability, top/bottom performers
+3. **Customer Segmentation** — Segment-level purchasing behaviour and trends
+
+**Technical Highlights:**
+- Advanced DAX measures for YoY growth, profit margin calculations, and running totals
+- Dynamic slicers for region, category, and time-period filtering
+- Power Query transformations for data cleaning and relationship modelling
+
+**Tools:** Power BI · DAX · Power Query · Data Modelling
 ### 🔵 [Superstore Sales Dashboard — Power BI](https://github.com/ayan-yahye/Superstore-Sales-Dashboard-PowerBI)
-> 3-page interactive dashboard analyzing $118M+ in retail sales data using DAX and Power Query
+
 
 ## 📫 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/ayan-yahye-0982501ba/
