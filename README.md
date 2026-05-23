@@ -74,6 +74,7 @@ Analyzed 1,000+ transactions to uncover **$79K annual revenue opportunity** thro
 - **Data Analysis:** SQL
 
 📂 [View SQL Code](https://github.com/ayan-yahye/PortfolioProject/blob/main/Supermarket%20Analysis.sql)
+
 [Source: Kaggle - Superstore Sales Dataset] (https://www.kaggle.com/datasets/chadwambles/supermarket-sales?select=sales.csv)
 
 ### Project 2: Bank Marketing Campaign Analysis
@@ -122,7 +123,8 @@ This project analyzes a bank's telemarketing campaign to identify key factors th
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Jupyter Notebook / Google Colab
 - Statistical Analysis
-📂 [View Python Notebook](https://github.com/ayan-yahye/PortfolioProject/blob/main/Bank_Marketing_Analysis.ipynb)  
+📂 [View Python Notebook](https://github.com/ayan-yahye/PortfolioProject/blob/main/Bank_Marketing_Analysis.ipynb)
+
 **Source:** [Bank Marketing Dataset on Kaggle](https://www.kaggle.com/datasets/yaminh/bank-marketing-campaign-dataset?select=dataset.csv)
 
 ### Project 3 — Superstore Sales Dashboard (Power BI)
@@ -140,7 +142,8 @@ Built a fully interactive 3-page Power BI dashboard analysing over $118M in reta
 - Power Query transformations for data cleaning and relationship modelling
 
 **Tools:** Power BI · DAX · Power Query · Data Modelling
-### 🔵 [Superstore Sales Dashboard — Power BI](https://github.com/ayan-yahye/Superstore-Sales-Dashboard-PowerBI)
+
+### 📂 [View Power BI Superstore Sales Dashboard](https://github.com/ayan-yahye/Superstore-Sales-Dashboard-PowerBI)
 
 
 ## 📫 Connect With Me
