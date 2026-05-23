@@ -123,6 +123,9 @@ This project analyzes a bank's telemarketing campaign to identify key factors th
   
 **Source:** [Bank Marketing Dataset on Kaggle](https://www.kaggle.com/datasets/yaminh/bank-marketing-campaign-dataset?select=dataset.csv)
 
+### 🔵 [Superstore Sales Dashboard — Power BI](https://github.com/ayan-yahye/Superstore-Sales-Dashboard-PowerBI)
+> 3-page interactive dashboard analyzing $118M+ in retail sales data using DAX and Power Query
+
 ## 📫 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/ayan-yahye-0982501ba/
-- **Email:** nayayn67@gmail.com
+- **Email:** ayanyahye0@gmail.com
